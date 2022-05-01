@@ -1,0 +1,90 @@
+@use "sass:math";
+
+@import "reset";
+@import "variables";
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: $currin-dark;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+}
+
+body {
+  position: relative;
+}
+
+#main {
+  width: 100%;
+  max-width: 600px;
+  min-width: 300px;
+  padding-bottom: 80px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+h1, h2 {
+  font-family: $currin-font;
+  text-transform: uppercase;
+  line-height: 14px;
+}
+
+h1 {
+  font-size: 16px;
+  font-weight: 800;
+  color: $currin-turquoise;
+  margin-bottom: 36px;
+  letter-spacing: 6px;
+}
+
+h2 {
+  font-size: 13px;
+  margin-bottom: 24px;
+  letter-spacing: 2px;
+}
+
+p {
+  line-height: 20px;
+  margin-bottom: 20px;
+  font-weight: normal;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+a {
+  color: inherit;
+
+  &:visited {
+    color: inherit;
+  }
+
+  &:hover {
+    color: black;
+  }
+}
+
+em {
+  font-style: italic;
+}
+
+small {
+  font-size: 10px;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+hr {
+  border-color: rgba(0, 0, 0, 0.4);
+  margin: 18px 0 36px;
+}

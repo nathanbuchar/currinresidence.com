@@ -1,0 +1,27 @@
+extends /common/pug/layout
+
+block append stylesheets
+  +stylesheet('home/home.scss')
+
+block content
+  .hero
+    .logo-container
+      .logo
+        .logo-emblem
+    .logotype
+      h1 Currin Residence
+      p Francis E. "Red" Warner, AIA
+      p Midland, MI &middot; 1959
+      a.instagram-icon(href='https://instagram.com/currinresidence' rel='noreferer nofollow' title='Follow the Currin Residence on Instagram')
+        include home/svg/instagram.svg
+  .content
+    .card
+      include:markdown home/cards/about.md
+    .card
+      include:markdown home/cards/warner.md
+    .card
+      include:markdown home/cards/thanks.md
+  .footer
+    p Copyright &copy; 2021–#{(new Date()).getFullYear()} #[a(href='https://instagram.com/currinresidence') Currin Residence].
+    p All rights reserved.
+    p #[a(href="mailto:info@currinresidence.com") Contact]
