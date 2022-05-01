@@ -1,0 +1,25 @@
+include includes/variables
+include includes/mixins
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name='description' content='The Currin Residence (1959) is a mid-century modern home in Midland, MI designed by Francis E. "Red" Warner currently under restoration.')
+    meta(name='keywords' content='Currin, architecture, midland, Red Warner, mid-century modern, mid mod')
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+
+    //- Page title
+    if title
+      title #{title} | #{siteName}
+    else
+      title=siteName
+
+    include includes/fonts
+    include includes/stylesheets
+    include includes/analytics
+  body
+    main#main
+      block content
+        //- Main page content goes here.
+
+    include includes/scripts
