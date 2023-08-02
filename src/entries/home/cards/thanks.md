@@ -24,4 +24,5 @@ The owners of the Currin Residence would like to thank the following individuals
 — [Cleanfreak Restore & Restoration](https://cleanfreakrandr.simdif.com/)
 — [Blasy Electric](https://www.blasyelectric.com/)
 — [Wild's Plumbing and Heating](https://wildsplumbingandheating.com/)
-— Randy Stilgenbauer
+— [West Side Decorating Center](http://www.westsidedecoratingcenter.com/)
+— Randy Stilgenbauer, RTS Construction

@@ -10,7 +10,7 @@ The Currins were one of Warner’s first clients, and their home is a shining ex
 
 When asked about why he contracted Red Warner to design the home, Mr. Currin replied, “I grew up in Wisconsin and had a general familiarity with Frank Lloyd Wright. I looked up architects in the Yellow Pages and saw Warner’s listing. After visiting his own home, and seeing how easy he was to work with, I decided to go with him. And I’m so glad I did!”
 
-![](home/img/home-2.jpg)
+![](home/img/home-3.jpg)
 
 The Currins adored their home and lived there for the rest of their lives. Betty passed away in 2016, and three years later, at the age of 88, so did Cedric. Warner passed away in 2006, and his ashes repose among those of his friends on Midland's Dahlia Hill.
 
