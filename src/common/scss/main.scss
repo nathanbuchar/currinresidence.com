@@ -20,7 +20,7 @@ body {
 
 #main {
   width: 100%;
-  max-width: 600px;
+  max-width: 520px;
   min-width: 300px;
   padding-bottom: 80px;
   margin: 0 auto;
@@ -55,6 +55,10 @@ p {
   &:last-of-type {
     margin-bottom: 0;
   }
+}
+
+.card p {
+  line-height: 24px;
 }
 
 a {
