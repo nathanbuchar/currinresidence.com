@@ -2,9 +2,9 @@
 
 The owners of the Currin Residence would like to thank the following individuals and businesses for their support and expertise.
 
-— Glenn Currin
-— Leslie Warner-Rafaniello
+— The Currin Family
 — John and Ruth Ham
+— Leslie Warner-Rafaniello
 — [Travis Fader | REALTOR®](https://www.instagram.com/midmodmichigan/)
 — [Avastar Construction](https://www.avastarconstruction.com/)
 — [Mid-Century Modern Midland (MCMM)](https://midcenturymidland.org/)
@@ -23,3 +23,5 @@ The owners of the Currin Residence would like to thank the following individuals
 — [Best Pest Control](https://www.bestpestanimalcontrol.net/midland-mi-pest-control)
 — [Cleanfreak Restore & Restoration](https://cleanfreakrandr.simdif.com/)
 — [Blasy Electric](https://www.blasyelectric.com/)
+— [Wild's Plumbing and Heating](https://wildsplumbingandheating.com/)
+— Randy Stilgenbauer
